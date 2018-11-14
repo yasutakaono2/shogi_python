@@ -2,6 +2,7 @@
 将棋をPythonでやる
 
 #python実行時
+
 $ python cli_banmen.py
 先手　持ち駒
 　　　９　８　７　６　５　４　３　２　１
